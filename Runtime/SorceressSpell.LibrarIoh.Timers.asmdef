@@ -1,0 +1,16 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Timers",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Timers",
+    "references": [
+        "SorceressSpell.LibrarIoh.Math"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

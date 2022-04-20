@@ -1,0 +1,22 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Timers.Tests",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Timers.Tests",
+    "references": [
+        "SorceressSpell.LibrarIoh.Timers",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
