@@ -10,7 +10,7 @@ namespace SorceressSpell.LibrarIoh.Timers
 
         public float ElapsedTimePercentage
         {
-            get { return ElapsedTime / TargetTime; }
+            get { return TargetTime != 0f ? (ElapsedTime / TargetTime) : ElapsedTime; }
         }
 
         public TimerEndBehaviour EndBehaviour { set; get; }
