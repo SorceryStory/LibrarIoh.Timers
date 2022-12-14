@@ -1,15 +1,15 @@
 {
   "name": "com.sorceressspell.librarioh.timers",
   "displayName": "LibrarIoh.Timers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "library",
   "unity": "2018.1",
   "description": "LibrarIoh.Timers (https://github.com/SorceressSpell/LibrarIoh.Timers)\n\nTimers for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceressSpell/LibrarIoh.Math)",
   "dependencies": {
-    "com.sorceressspell.librarioh.math": "0.2.0"
+    "com.sorceressspell.librarioh.math": "0.3.0"
   },
   "author": {
-    "name": "Sorceress' Spell",
+    "name": "Joana Almeida",
     "email": "Sorceress.Spell@gmail.com",
     "url": "http://SorceressSpell.com"
   },

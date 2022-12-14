@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1] - 2022-12-14
+
+### Changed
+
+- Fixed a bug that would lead to unpredictable behaviour when `UpdateTimer`'s `TargetTime` was 0.
+- Changed the package author's and license's holders name.
+
 ## [0.2.0] - 2022-04-20
 
 ### Added
@@ -12,14 +19,8 @@
 
 - Repository is now a custom package that can be directly imported into Unity.
 
-### Removed
-
 ## [0.1.0] - 2019-03-10
 
 ### Added
 
-- Librarioh.Timers code.
-
-### Changed
-
-### Removed
+- `Librarioh.Timers` code.
