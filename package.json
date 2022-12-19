@@ -6,7 +6,7 @@
   "unity": "2018.1",
   "description": "LibrarIoh.Timers (https://github.com/SorceressSpell/LibrarIoh.Timers)\n\nTimers for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceressSpell/LibrarIoh.Math)",
   "dependencies": {
-    "com.sorceressspell.librarioh.math": "0.3.0"
+    "com.sorceressspell.librarioh.math": "0.4.0"
   },
   "author": {
     "name": "Joana Almeida",
