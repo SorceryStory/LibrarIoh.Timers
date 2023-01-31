@@ -1,7 +1,7 @@
-# [LibrarIoh.Timers](https://github.com/SorceressSpell/LibrarIoh.Timers)
+# [LibrarIoh.Timers](https://github.com/SorceryStory/LibrarIoh.Timers)
 
 Timers for LibrarIoh.
 
 ## Dependencies
 
-- [LibrarIoh.Math](https://github.com/SorceressSpell/LibrarIoh.Math)
+- [LibrarIoh.Math](https://github.com/SorceryStory/LibrarIoh.Math)

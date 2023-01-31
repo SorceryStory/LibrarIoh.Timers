@@ -4,7 +4,7 @@
   "version": "0.2.1",
   "type": "library",
   "unity": "2018.1",
-  "description": "LibrarIoh.Timers (https://github.com/SorceressSpell/LibrarIoh.Timers)\n\nTimers for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceressSpell/LibrarIoh.Math)",
+  "description": "LibrarIoh.Timers (https://github.com/SorceryStory/LibrarIoh.Timers)\n\nTimers for LibrarIoh.\n\nDepends on:\n  - LibrarIoh.Math (https://github.com/SorceryStory/LibrarIoh.Math)",
   "dependencies": {
     "com.sorceressspell.librarioh.math": "0.3.0"
   },
